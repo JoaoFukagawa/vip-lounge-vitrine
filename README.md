@@ -9,7 +9,7 @@ recepção e no celular de cada profissional.
 > roda com um **banco de dados falso e dados 100% fictícios**. Nenhuma cliente,
 > profissional, telefone, valor ou chave real está neste repositório.
 
-**▶ Demo online:** _link da Vercel aqui_ · entre com um clique como Administração, Recepção ou Profissional
+**▶ Demo online: [salao-vitrine.vercel.app](https://salao-vitrine.vercel.app)** · entre com um clique como Administração, Recepção ou Profissional
 
 ![Agenda do dia](docs/agenda.png)
 
